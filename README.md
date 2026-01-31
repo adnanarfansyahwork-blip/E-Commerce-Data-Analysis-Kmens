@@ -1,6 +1,6 @@
 # E-Commerce-Data-Analysis-Kmens
 
-Berikut adalah penjelasan lengkap mengenai proses Data Mining yang terdapat dalam dokumen notebook [UAS_Datamining.ipynb](cci:7://file:///c:/Users/User/Downloads/UAS_Datamining.ipynb:0:0-0:0) Anda, disusun sesuai dengan struktur laporan yang Anda minta.
+Berikut adalah penjelasan lengkap mengenai proses Data Mining yang terdapat dalam dokumen notebook [Datamining.ipynb]( Anda, disusun sesuai dengan struktur laporan yang Anda minta.
 
 ### 1. Latar Belakang dan Tujuan Pemilihan Masalah
 *   **Latar Belakang:** Dalam industri *e-commerce*, volume data transaksi sangat besar. Memahami pola transaksi dan perilaku penjualan sangat penting untuk strategi bisnis. Data mentah sulit diinterpretasikan secara langsung.
